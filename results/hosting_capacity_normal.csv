@@ -1,0 +1,9 @@
+bus,load_case,hosting_kw,limit
+632,normal,4300,overvoltage (1.0501 pu)
+633,normal,3300,overload (Line.632633 at 103%)
+634,normal,800,overload (Transformer.xfm1 at 109%)
+670,normal,3600,overvoltage (1.0500 pu)
+671,normal,3000,overvoltage (1.0500 pu)
+675,normal,1500,overvoltage (1.0504 pu)
+680,normal,2800,overload (Line.671680 at 100%)
+692,normal,3000,overvoltage (1.0500 pu)
